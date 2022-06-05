@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_26_Array_Split\Task_26_Array_Split\bin\Debug\Task_26_Array_Split.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_26_Array_Split\Task_26_Array_Split\bin\Debug\Task_26_Array_Split.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_26_Array_Split\Task_26_Array_Split\bin\Debug\Task_26_Array_Split.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_26_Array_Split\Task_26_Array_Split\obj\Debug\Task_26_Array_Split.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_26_Array_Split\Task_26_Array_Split\obj\Debug\Task_26_Array_Split.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_26_Array_Split\Task_26_Array_Split\obj\Debug\Task_26_Array_Split.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_26_Array_Split\Task_26_Array_Split\obj\Debug\Task_26_Array_Split.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_26_Array_Split\Task_26_Array_Split\obj\Debug\Task_26_Array_Split.pdb
